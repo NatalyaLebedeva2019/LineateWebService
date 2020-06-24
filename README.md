@@ -1,3 +1,3 @@
 # LineateWebService
 
-A traunung progect. Product delivery service
+A training progect. Product delivery service
